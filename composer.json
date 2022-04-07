@@ -1,0 +1,17 @@
+{
+    "name": "khale/twig-quete",
+    "autoload": {
+        "psr-4": {
+            "Khale\\TwigQuete\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Khaled Bribri",
+            "email": "94048267+Khaled-Bribri@users.noreply.github.com"
+        }
+    ],
+    "require": {
+        "twig/twig": "^3.3"
+    }
+}
